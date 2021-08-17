@@ -1,0 +1,22 @@
+shader_dir: D:/render/shader/
+
+resource_dir: D:/render/resource/
+
+shader: 
+  model_v: model_v.glsl
+  model_f: model_f.glsl
+  skybox_v: skybox_v.glsl
+  skybox_f: skybox_f.glsl
+  position_v: position_v.glsl
+  position_f: position_f.glsl
+
+resource: 
+  boat: boat/boat.obj
+  car: car/j15.obj
+  skybox: 
+    right: skybox/right.jpg
+    left: skybox/left.jpg
+    top: skybox/top.jpg
+    bottom: skybox/bottom.jpg
+    front: skybox/front.jpg
+    back: skybox/back.jpg
